@@ -1,7 +1,7 @@
 ## Headline
 ### sub3
 ## sub2
-> 漂亮！
+票
   ```python
   def func():
     return 1
