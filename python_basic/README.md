@@ -6,4 +6,11 @@
   def func():
     return 
 ```
+
+```C++
+int main(){
+return 0;
+}
+cout <<sdfds
+```
  
