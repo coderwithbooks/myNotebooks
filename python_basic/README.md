@@ -2,8 +2,8 @@
 ### sub3
 ## sub2
 票
-  ```python
+```python
   def func():
-    return 1
-  ```
+    return 
+```
  
